@@ -1,2 +1,2 @@
-# Rental-Car
-Aplikasi rental mobil menggunakan bahasa C++
+# Car-Rental
+The car rental application uses the C++ language
