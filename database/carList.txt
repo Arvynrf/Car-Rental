@@ -1,0 +1,5 @@
+Jeep#4.1#Rubicon#2020#925000
+Tesla#4.0#Model-X#2021#950000
+Hyundai#3.8#Santafe#2020#800000
+Honda#3.9#CR-V#2021#700000
+Toyota#3.9#Fortuner#2020#850000
